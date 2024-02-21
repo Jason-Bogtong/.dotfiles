@@ -1,0 +1,14 @@
+https://github.com/Jason-Bogtong/.dotfiles
+
+In lab 04, I had to write a script using different commands. I started by creating a directory and creating a file 
+inside that directory. I then followed the commands I had to input into the file such as printing the output of 
+hostname and creating a directory called data. I then had to create the output file by using a bash command. Finally, I tarballed 
+the files and submitted them to dropbox.
+
+One of the hardest parts of this lab was showing the first 23 lines of the condensed.csv file. I had a hard time rembering 
+the command to do that task. Also, I struggled with downloading the file called mnist_condensed.cvs. I kept getting errors that 
+stated that the file could not be read. 
+
+To solve these problems, I first looked up the code to showing lines of a file and copied it into the directory. With the
+other problem I asked the TA to look at my code and figure out hy I kept getting that error. After she explained what error i was
+having and how to correct it, I fixed that command in the directory.
